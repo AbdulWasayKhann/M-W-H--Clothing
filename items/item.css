@@ -1,0 +1,97 @@
+body{
+    background-color: rgb(90, 0, 175);
+}
+/* .div_1{
+    position: fixed;
+} */
+.main_navbar{
+    border: 1px white;
+    border-radius: 0 0 5px 5px;
+    display: fixed;
+}
+.MWH_logo{
+    max-width: 100px;
+}
+.main_img_div{
+    display: flex;
+    justify-content: center;
+}
+.main_img{
+    max-width: 100%;
+}
+/* --------------------- */
+.main_div_1{
+    padding-top: 50px;
+}
+.main_div_1_1{
+    height: 60px;
+    display: flex;
+    padding-top: 15px;
+    justify-content: center;
+    border: 2px solid rgb(161, 147, 255);
+    border-radius: 5px 40px;
+    color: white;
+    background-color: rgb(38, 0, 74);
+}
+
+/* ---BUY Card 1 */
+.div_2{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+.div_2 .pading_top{
+    /* background-color: rgb(174, 87, 255); */
+    background-color: rgb(255, 248, 238);
+    /* border-radius: 0 5px 5px 0; */
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.div_2 .img_1{
+    max-width: 100%;
+    padding-left: 5%;
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+.card_body_1{
+    background-color: rgb(108, 26, 185);
+    padding: 10px;
+    /* border-radius: 5px 0 0 0; */
+}
+.card_body_1 h5{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    /* height: 30px; */
+    color: white;
+}
+.price_div_1 p{
+    text-align: center;
+    display: flex;
+    padding-left: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: line-through;
+    color: white;
+}
+.price_div_1 h5{
+    text-align: center;
+    display: flex;
+    padding-left: 10px;
+}
+.buy_btn_1{
+    padding-left: 20px;
+}
+.card_body_1 .buy_btn_1_1{
+    /* align-items: center; */
+    /* display: flex; */
+    justify-content: center;
+    padding-left: 10px;
+    width: 90%;
+    border-radius: 50px;
+}
+a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: white;
+}
+
